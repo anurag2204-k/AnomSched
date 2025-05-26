@@ -3,8 +3,6 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 [![CMake](https://img.shields.io/badge/CMake-3.10+-green.svg)](https://cmake.org/)
 [![Python](https://img.shields.io/badge/Python-3.7+-yellow.svg)](https://python.org/)
-[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
-
 A high-performance, research-oriented thread pool scheduler implementation with comprehensive performance monitoring, real-time anomaly detection, and advanced visualization tools for analyzing concurrent system behavior.
 
 ## 🎯 Project Overview
@@ -565,7 +563,7 @@ class AdvancedLogger {
 };
 ```
 
-### **Future Development Roadmap**
+<!-- ### **Future Development Roadmap**
 
 #### **Phase 1: Enhanced Analytics**
 - [ ] Machine learning anomaly detection
@@ -583,7 +581,7 @@ class AdvancedLogger {
 - [ ] Configuration management system
 - [ ] Comprehensive REST API
 - [ ] Database integration for metrics
-- [ ] Enterprise monitoring integration
+- [ ] Enterprise monitoring integration -->
 
 ## 🛠 Configuration & Customization
 
@@ -618,22 +616,22 @@ IQR_MULTIPLIER = 1.5        # IQR outlier factor
 TIME_WINDOW_MS = 500        # Throughput calculation window
 CONFIDENCE_LEVEL = 0.95     # Statistical confidence
 ```
-
+<!-- 
 ## 📄 License & Contributing
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. -->
 
-### **Contributing Guidelines**
+<!-- ### **Contributing Guidelines**
 1. Fork the repository
 2. Create a feature branch
 3. Add comprehensive tests
 4. Update documentation
-5. Submit a pull request
+5. Submit a pull request -->
 
-### **Code Style**
+<!-- ### **Code Style**
 - **C++**: Follow Google C++ Style Guide
 - **Python**: PEP 8 compliance
-- **Documentation**: Comprehensive inline comments
+- **Documentation**: Comprehensive inline comments -->
 
 ---
 
